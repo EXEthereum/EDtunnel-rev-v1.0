@@ -49,14 +49,14 @@ Note: `UUID` is the uuid you want to set. pages.dev and worker.dev all of them m
 
 ## subscribe vless:// link (Optional)
 
-1. visit `https://edtunnel.pages.dev/uuid your set` to get the subscribe link.
+1. visit `https://edtunnel-rev.pages.dev/uuid your set` to get the subscribe link.
 
-2. visit `https://edtunnel.pages.dev/sub/uuid your set` to get the subscribe content with `uuid your set` path.
+2. visit `https://edtunnel-rev.pages.dev/sub/uuid your set` to get the subscribe content with `uuid your set` path.
 
    note: `uuid your set` is the uuid you set in UUID enviroment or `wrangler.toml`, `_worker.js` file.
    when you set multiple uuid, you can use `https://edtunnel.pages.dev/sub/uuid1` to get the subscribe content with `uuid1` path.(only support first uuid in multiple uuid set)
 
-3. visit `https://edtunnel.pages.dev/sub/uuid your set/?format=clash` to get the subscribe content with `uuid your set` path and `clash` format. content will return with base64 encode.
+3. visit `https://edtunnel-rev.pages.dev/sub/uuid your set/?format=clash` to get the subscribe content with `uuid your set` path and `clash` format. content will return with base64 encode.
 
    note: `uuid your set` is the uuid you set in UUID enviroment or `wrangler.toml`, `_worker.js` file.
    when you set multiple uuid, you can will use `https://edtunnel.pages.dev/sub/uuid1/?format=clash` to get the subscribe content with `uuid1` path and `clash` format.(only support first uuid in multiple uuid set)
@@ -67,7 +67,7 @@ Note: `UUID` is the uuid you want to set. pages.dev and worker.dev all of them m
 
 2. cpoy subscribe url link `https://edtunnel.pages.dev/bestip/uuid your set` to any clients(clash/v2rayN/v2rayNG) you want to use.
 
-3. done. if have any questions please join [@edtunnel](https://t.me/edtunnel)
+3. done. if have any questions please join [@edtunnelrev](https://t.me/edtunnelrev)
 
 ## multiple port support (Optional)
 
